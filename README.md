@@ -7,4 +7,5 @@
   (b). Pgm to recognzie a valid variable which stands with a letter followed by any no. of letters or digits.
   (c). Implementation of calculator using LEX and YACC.
   (d). Convert the BNF rules into YACC form and writre code to generate abstract syntax tree.
-4.
+4. Write a Pgm to conert NFA to DFA.
+5. Write a Pgm to minimize any given DFA.
