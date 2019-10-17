@@ -9,3 +9,6 @@
   (d). Convert the BNF rules into YACC form and writre code to generate abstract syntax tree.
 4. Write a Pgm to conert NFA to DFA.
 5. Write a Pgm to minimize any given DFA.
+6. Develop an operator precedence parser for a given language.
+7. Write program to find simulate first and follow of any given grammar.
+8. Construct a recursive decent parser for an expression.
