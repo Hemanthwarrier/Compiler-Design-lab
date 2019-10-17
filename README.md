@@ -12,3 +12,8 @@
 6. Develop an operator precedence parser for a given language.
 7. Write program to find simulate first and follow of any given grammar.
 8. Construct a recursive decent parser for an expression.
+9. Construct a shift reduce parser for a given language.
+10. Write a Pgm to perform loop unrolling.
+11. Write a Pgm to perform contant propogation.
+
+x ----------------- E N D ----------------- x
