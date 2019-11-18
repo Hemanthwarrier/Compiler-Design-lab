@@ -17,3 +17,27 @@
 11. Write a Pgm to perform contant propogation.
 
 x ----------------- E N D ----------------- x
+
+### Running lex program
+
+```
+ lex pgm-name.lex
+  
+ gcc lex.yy.c
+
+ ./a.out
+
+```
+
+### Running YACC Program
+
+```
+yacc -d pgm-name.y
+
+lex pgm-name.lex
+
+gcc lex.yy.c y.tab.c
+
+./a.out
+
+```
